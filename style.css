@@ -6,3 +6,8 @@ header{
 .slider{
     background-color: yellow;
 }
+
+footer{
+    width: 80%;
+    background: green;
+}
